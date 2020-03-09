@@ -1,4 +1,4 @@
-# parallel-computing-python
+# Parallel Computing in Python
 
 This repos. is used to store the scripts for parallel computing in python. 3 examples are provided here.
 
